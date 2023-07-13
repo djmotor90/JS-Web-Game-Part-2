@@ -10,7 +10,7 @@ function newImage(url, left, bottom){
 
 function newItem(url, left, bottom){
     let item = newImage(url, left, bottom)
-}
+}c
 
 function newInventory(){
     let inventory = document.createElement('div')
